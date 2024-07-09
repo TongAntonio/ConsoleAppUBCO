@@ -10,3 +10,9 @@
    5.3 Check it text is contains  (a, e, i, o, u) if true it place to the next consonant in the alphabet.
    5.4 Return value.
 6. Count amount of text then add amount append translated text.
+
+
+## Future Enhancements
+- Add functionality to translate back from the alien language to English.
+- Implement more robust error handling and validation.
+- Improve the front-end design and user experience.
